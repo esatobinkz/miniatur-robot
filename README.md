@@ -1,2 +1,0 @@
-# miniatur-robot
-Pluginwordpress
